@@ -1,0 +1,62 @@
+- 이진탐색
+
+lower_bound
+용도 : 찾으려는 key 값보다 같거나 큰 숫자가 배열 몇 번째에서 처음 등장하는지 찾기 위함
+사용 조건 : 탐색을 진행할 배열 혹은 벡터는 오름차순 정렬되어 있어야 함
+
+upper_bound
+용도 : 찾으려는 key 값을 초과하는 숫자가 배열 몇 번째에서 처음 등장하는지 찾기 위함
+사용 조건 : 탐색을 진행할 배열 혹은 벡터는 오름차순 정렬되어 있어야 함
+
+- STL Set
+
+Set의 반복자(iterator)
+
+ s.begin() 	 set의 시작이 되는 주소 값 반환
+ s.end() 	 set의 마지막 부분에 대한 주소 값 반환(정확히는 마지막 뒤 공백구간) 
+ s.rbegin() 	 set의 마지막 부분을 시작점으로 지정
+ s.rend() 	 set의 첫번 째 부분을 마지막점으로 지정 
+ s.cbegin() 	 begin()과 동일하지만 const로 설정. 
+ s.cend() 	 end()와 동일하지만 const로 설정
+ s.crbegin() 	 rbegin()과 동일하지만 const로 설정 
+ s.crend() 	 rend()와 동일하지만 const로 설정
+
+Set의 용량(Capacity)
+
+ s.empty() 	 s가 비어있다면 true, 아니면 false 
+ s.size() 	 s에 저장되어 있는 크기 
+ s.max_size() 	 s가 가질 수 있는 최대 크기 
+
+Set의 삽입, 삭제(Modifiers)
+
+ s.insert() 	 s에 값 삽입
+ s.erase() 	 s에 저장된 요소 삭제 
+ s.swap() 	 s1과 s2를 서로 교환
+ s.clear() 	 s의 요소들 전부 삭제 
+ s.emplace() 	 move()를 사용해 객체를 저장
+ s.emplace_hint()	 삽입될 위치에 대한 힌트를 토대로 삽입
+
+Set의 기능(operations)
+
+ s.find() 	 찾는 값이 있으면 해당 위치의 iterator 반환, 아니면 s.end()반환 
+ s.count()	 set에 저장된 요소들의 갯수 반환 
+ s.lower_bound() 	 set의 요소의 위치에 대한 iterator 반환 
+ s.upper_bound() 	 set의 요소의 위치에 대한 iterator 반환 
+ s.equal_range()	 해당 요소에 대한 범위(iterator) 반환
+
+
+STL Map
+
+1. 기본적인 형태 : map<key, value>
+map의 기본적인 형태는 위와 같습니다.
+
+key, value 값이 쌍으로 저장되는 형태를 띠며 key값을 이용해서 value를 찾을 수 있습니다.
+
+2. 기본적인 메소드
+begin() : 첫 번째 원소의 iterator (반복자)를 반환한다. (즉 map의 원소를 반복자를 이용해서 접근할 수 있다.)
+end() : 마지막 원소의 다음 반복자를 반환한다.
+clear() : 저장하고 있는 모든 원소를 삭제한다.
+insert() : 원소를 추가한다.
+find() : key와 관련된 원소의 반복자를 반환한다. (단 찾지 못한 경우 end() 반복자를 반환한다)
+size() : 원소의 개수를 반환한다.
+erase() : 해당 원소를 삭제한다.

@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\union-find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|solutionrelative:Project1\\union-find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\0-1bfs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|solutionrelative:Project1\\0-1bfs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\bfs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|solutionrelative:Project1\\bfs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\tree-dp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|solutionrelative:Project1\\tree-dp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|solutionrelative:Project1\\tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\Sieve of Eratosthenes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Sieve of Eratosthenes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\MST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|solutionrelative:Project1\\MST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\LIS-nlogn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|solutionrelative:Project1\\LIS-nlogn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\LCS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|solutionrelative:Project1\\LCS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\Dijkstra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Dijkstra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\ccw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6295B79A-E40B-490B-A592-55B47F383D60}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ccw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0-1bfs.cpp",
+              "DocumentMoniker": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\0-1bfs.cpp",
+              "RelativeDocumentMoniker": "Project1\\0-1bfs.cpp",
+              "ToolTip": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\0-1bfs.cpp",
+              "RelativeToolTip": "Project1\\0-1bfs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T16:00:28.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "union-find.cpp",
+              "DocumentMoniker": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\union-find.cpp",
+              "RelativeDocumentMoniker": "Project1\\union-find.cpp",
+              "ToolTip": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\union-find.cpp",
+              "RelativeToolTip": "Project1\\union-find.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T15:59:42.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tree-dp.cpp",
+              "DocumentMoniker": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\tree-dp.cpp",
+              "RelativeDocumentMoniker": "Project1\\tree-dp.cpp",
+              "ToolTip": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\tree-dp.cpp*",
+              "RelativeToolTip": "Project1\\tree-dp.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T15:59:12.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tree.cpp",
+              "DocumentMoniker": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\tree.cpp",
+              "RelativeDocumentMoniker": "Project1\\tree.cpp",
+              "ToolTip": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\tree.cpp*",
+              "RelativeToolTip": "Project1\\tree.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T15:57:36.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sieve of Eratosthenes.cpp",
+              "DocumentMoniker": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\Sieve of Eratosthenes.cpp",
+              "RelativeDocumentMoniker": "Project1\\Sieve of Eratosthenes.cpp",
+              "ToolTip": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\Sieve of Eratosthenes.cpp*",
+              "RelativeToolTip": "Project1\\Sieve of Eratosthenes.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T15:57:16.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LIS-nlogn.cpp",
+              "DocumentMoniker": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\LIS-nlogn.cpp",
+              "RelativeDocumentMoniker": "Project1\\LIS-nlogn.cpp",
+              "ToolTip": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\LIS-nlogn.cpp*",
+              "RelativeToolTip": "Project1\\LIS-nlogn.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T15:55:36.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LCS.cpp",
+              "DocumentMoniker": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\LCS.cpp",
+              "RelativeDocumentMoniker": "Project1\\LCS.cpp",
+              "ToolTip": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\LCS.cpp*",
+              "RelativeToolTip": "Project1\\LCS.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T15:53:23.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dijkstra.cpp",
+              "DocumentMoniker": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\Dijkstra.cpp",
+              "RelativeDocumentMoniker": "Project1\\Dijkstra.cpp",
+              "ToolTip": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\Dijkstra.cpp*",
+              "RelativeToolTip": "Project1\\Dijkstra.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T15:52:47.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bfs.cpp",
+              "DocumentMoniker": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\bfs.cpp",
+              "RelativeDocumentMoniker": "Project1\\bfs.cpp",
+              "ToolTip": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\bfs.cpp*",
+              "RelativeToolTip": "Project1\\bfs.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T03:10:00.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ccw.cpp",
+              "DocumentMoniker": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\ccw.cpp",
+              "RelativeDocumentMoniker": "Project1\\ccw.cpp",
+              "ToolTip": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\ccw.cpp*",
+              "RelativeToolTip": "Project1\\ccw.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T15:51:38.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MST.cpp",
+              "DocumentMoniker": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\MST.cpp",
+              "RelativeDocumentMoniker": "Project1\\MST.cpp",
+              "ToolTip": "C:\\Users\\juyeo\\Desktop\\etc\\Project1\\Project1\\MST.cpp*",
+              "RelativeToolTip": "Project1\\MST.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T15:51:19.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
